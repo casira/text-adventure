@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://gamesartist.co.uk/wp-content/uploads/2021/06/james-naughton-main-render-sharp-2000x1125.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+h1 {
+    background-color: white;
+}
+
+h4 {
+    background-color: white;
+}
